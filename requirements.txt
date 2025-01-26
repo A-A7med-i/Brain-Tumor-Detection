@@ -1,0 +1,11 @@
+numpy~=2.2.1
+albumentations~=1.4.24
+PyYAML~=6.0.2
+pandas~=2.2.3
+setuptools~=75.6.0
+scikit-learn~=1.6.1
+matplotlib~=3.10.0
+uvicorn~=0.34.0
+fastapi~=0.115.7
+tensorflow~=2.18.0
+seaborn~=0.13.2
