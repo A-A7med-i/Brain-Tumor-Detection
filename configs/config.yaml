@@ -1,0 +1,7 @@
+paths:
+  raw: "/media/ahmed/Files/Brain-Project/data/raw/images"
+  train_path: "/media/ahmed/Files/Brain-Project/data/processed/train.pkl"
+  test_path: "/media/ahmed/Files/Brain-Project/data/processed/test.pkl"
+
+models:
+  checkpoints_path: "/media/ahmed/Files/Brain-Project/models/checkpoints/best_model.keras"
